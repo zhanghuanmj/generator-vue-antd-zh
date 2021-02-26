@@ -43,7 +43,6 @@ const fileList = [
     'src/main.js',
     '.browserslistrc',
     '.eslintrc.js',
-    '.gitignore',
     'babel.config.js',
     'package.json',
     'README.md',
