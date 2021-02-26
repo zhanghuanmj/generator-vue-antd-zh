@@ -1,0 +1,12 @@
+{
+  "name": "generator-vue-antd-zh",
+  "version": "1.0.0",
+  "description": "vue antd generator",
+  "main": "index.js",
+  "author": "zhanghuan",
+  "license": "MIT",
+  "devDependencies": {
+    "yeoman-generator": "4"
+  },
+  "dependencies": {}
+}
